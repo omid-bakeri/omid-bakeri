@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omid Bakeri</h1>
 <h3 align="center">Computer engineering and front end programmer</h3>
 
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" alt="image"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omid-bakeri&label=Profile%20views&color=0e75b6&style=flat" alt="omid-bakeri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omid-bakeri" alt="omid-bakeri" /></a> </p>
